@@ -26,7 +26,7 @@ SECRET_KEY = 'tilo^s)@(6hgdrh$4ay67*sgmy^8(o&2nk!y30*=o$_da256kw'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'myrobot.pythonanywhere.com'
+    'localhost', '127.0.0.1', '[::1]', '.pythonanywhere.com'
 ]
 
 
