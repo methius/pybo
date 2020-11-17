@@ -25,7 +25,7 @@ SECRET_KEY = 'tilo^s)@(6hgdrh$4ay67*sgmy^8(o&2nk!y30*=o$_da256kw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['myrobot.pythonanywhere.com']
 
 
 # Application definition
